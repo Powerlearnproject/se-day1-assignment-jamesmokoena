@@ -72,6 +72,7 @@ Maintenance & Support
     Ensure long-term usability and security.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 -Waterfall follows a linear and sequential approach, where development is divided into predefined phases such as requirements gathering, design, implementation, testing, deployment, and maintenance. Each phase must be completed before moving to the next, making it a rigid structure. Changes are difficult to incorporate once a phase is finalized. This methodology is best suited for projects with clear, stable requirements and minimal expected changes.
 
 Agile, on the other hand, is an iterative and flexible approach. Instead of completing the project in one go, Agile breaks it down into smaller cycles called sprints. Each sprint delivers a working increment of the software, allowing continuous feedback, adaptation, and improvements. Agile promotes collaboration, customer involvement, and rapid response to changes, making it suitable for dynamic and evolving projects.
@@ -86,6 +87,7 @@ When to Use Agile
 Agile works best in fast-paced industries where requirements frequently evolve. It is commonly used in software startups, mobile app development, and web applications where user feedback is essential for improvements. For instance, an e-commerce platform that requires continuous updates based on customer behavior would benefit from Agile’s flexibility and iterative releases.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 -1. Software Developer
 
 A Software Developer is responsible for designing, coding, and maintaining software applications. Their key responsibilities include:
